@@ -1,7 +1,7 @@
 import socket
 import requests
 from threading import Thread
-from dnslib import DNSRecord
+# from dnslib import DNSRecord
 
 SEV_ADDR = ("127.1.1.1", 53)
 
